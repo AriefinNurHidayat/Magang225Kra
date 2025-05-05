@@ -21,7 +21,7 @@
                     <div class="row justify-content-center">
                         <div class="col-md-6 mb-4">
                             <div class="card h-100">
-                                <a href="#"><div class="card-body shadow-lg">
+                                <a href="/ruang"><div class="card-body shadow-lg">
                                     <img src="{{ asset('img/business-meeting-room-high-rise-office-building.jpg') }}" alt="Gambar" class="card-img">
                                     <h6 class="mt-4 text-center">Peminjaman Ruangan</h6>
                                 </div></a>
