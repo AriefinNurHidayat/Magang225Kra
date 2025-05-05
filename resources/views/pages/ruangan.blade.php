@@ -1,0 +1,24 @@
+@include('components.header')
+
+    <main>
+        <section>
+            <div class="page-header min-vh-75 relative" style="background-image: linear-gradient(to bottom, rgba(0,0,0,0.2) 10%, rgba(0,0,0,0.7) 90%), url('{{ asset('img/business-meeting-room-high-rise-office-building.jpg') }}')">
+            <span class="mask bg-gradient-dark opacity-4"></span>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-9 text-center mx-auto">
+                            <h1 class="text-white font-weight-black pt-3 mt-n5">Pesan Ruangan</h1>
+                            <p class="lead text-white mt-3">Pelayanan Pemesanan Ruangan Dinas Komunikasi dan Informatika Kabupaten Karanganyar</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card card-body blur shadow-blur mx-3 mx-md-4 mt-n6">
+
+                <section class="pt-3 pb-4">
+                  <div class="container">                        
+                </div>
+                </section>
+            </div>
+    </main>
