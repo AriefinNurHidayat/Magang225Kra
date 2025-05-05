@@ -31,8 +31,13 @@
                                 </div>
 
                                 <div class="mb-3">
-                                    <label for="tanggal" class="form-label fw-bold">Waktu</label>
-                                    <input type="text" name="waktu" class="form-control border border-2 shadow-sm px-2" required>
+                                    <label for="tanggal" class="form-label fw-bold">Waktu Mulai</label>
+                                    <input type="time" name="waktustart" class="form-control border border-2 shadow-sm px-2" required>
+                                </div>
+                                
+                                <div class="mb-3">
+                                    <label for="tanggal" class="form-label fw-bold">Waktu Selesai</label>
+                                    <input type="time" name="waktuend" class="form-control border border-2 shadow-sm px-2" required>
                                 </div>
 
                                 <div class="mb-3">
@@ -55,7 +60,7 @@
                                 </div>
                                 <div class="mb-3">
                                     <label for="tanggal" class="form-label fw-bold">Keterangan</label>
-                                    <textarea name="Keterangan" class="form-control border border-2 shadow-sm px-2" required></textarea>
+                                    <textarea name="Keterangan" class="form-control border border-2 shadow-sm px-2" ></textarea>
                                 </div>
                                 <button type="submit" class="btn bg-gradient-dark mt-2">Kirim</button>
                             </form>
