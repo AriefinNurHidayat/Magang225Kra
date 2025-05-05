@@ -14,11 +14,11 @@
                 </div>
             </div>
 
-            <div class="mt-n10">
+            <div class="mt-n8">
 
-                <section class="pt-5 pb-5">
+                <section>
                     <div class="container">
-                        <div class="card shadow-lg border rounded-4">
+                        <div class="card shadow-lg rounded-4">
                             <div class="card-header bg-gradient-dark text-white rounded-top-4">
                                 <h5 class="mb-0 text-white">Formulir Peminjaman Ruangan</h5>
                             </div>
