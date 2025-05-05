@@ -45,6 +45,7 @@
                             </div>
                         </form>
                     </div>
+                    <hr class="horizontal dark">
 
                     <div class="card-footer text-center">
                         <small>Belum punya akun? <a href="/register">Daftar</a></small>
