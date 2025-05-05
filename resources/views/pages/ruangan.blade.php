@@ -32,7 +32,7 @@
 
                                 <div class="mb-3">
                                     <label for="tanggal" class="form-label fw-bold">Waktu</label>
-                                    <input type="time" name="waktu" class="form-control border border-2 shadow-sm px-2" required>
+                                    <input type="text" name="waktu" class="form-control border border-2 shadow-sm px-2" required>
                                 </div>
 
                                 <div class="mb-3">
