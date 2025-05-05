@@ -14,9 +14,9 @@
                 </div>
             </div>
 
-            <div class="card card-body blur shadow-blur mx-3 mx-md-4 mt-n6">
+            <div class="mt-n10">
 
-                <section class="pt-5 pb-5 shadow-lg">
+                <section class="pt-5 pb-5">
                     <div class="container">
                         <div class="card shadow-lg border rounded-4">
                             <div class="card-header bg-gradient-dark text-white rounded-top-4">
