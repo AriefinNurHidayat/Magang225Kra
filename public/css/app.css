@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropdown-toggle::after {
+    display: none !important;
+}
+.dropdown-menu::before,
+.dropdown-menu::after {
+  display: none !important;
+}
+
+.dropdown-left-custom {
+    position: absolute;
+    right: 100%; /* Geser ke kiri elemen trigger */
+    top: 0; /* Sejajarkan secara vertikal */
+    text-align: left;
+    transform: translateX(-10px); /* Opsional: beri jarak sedikit */
+  }
+
+
+  
